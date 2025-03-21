@@ -1,0 +1,55 @@
+Number of components =            2
+Number of bodies =            2
+Number of particles =       200864
+Number of material sets  =            2
+DTScale =      0.100
+MUSL method is used 
+Notice: Bardenhagens contact method is used with USF
+frictional factor =  0.000E+00
+Material:
+1 elas 7.85d-3 200.0d3 0.30d0
+2 jcf 2.70d-3 69.0d3 0.30d0 262.0 52.1 0.41 0 0.859 293.0 875.0 909.99 1d-3 1.6
+the effective number of material           2
+Grid mass CutOff value:   0.4220E-06
+ 
+Number of grid    181888
+cells (x,y,z)  127  48  28
+ 
+     --- body  1 ---
+                    mass:  0.4047E+02
+          kinetic energy:  0.3238E+07
+         internal energy:  0.0000E+00
+     --- body  2 ---
+                    mass:  0.4293E+03
+          kinetic energy:  0.0000E+00
+         internal energy:  0.0000E+00
+       --- total ---
+              total mass:  0.4698E+03
+    total kinetic energy:  0.3238E+07
+   total internal energy:  0.0000E+00
+ 
+DT =  0.341E-04
+ Step=     1  T= 3.410E-05  K.E.= 3.238E+06  T.E.= 3.238E+06
+              Mx= 0.162E+05   My=-0.106E-15   Mz= 0.138E-15
+ Step=    59  T= 2.012E-03  K.E.= 3.231E+06  T.E.= 3.236E+06
+              Mx= 0.162E+05   My= 0.100E-02   Mz=-0.336E+02
+ Step=   118  T= 4.024E-03  K.E.= 3.220E+06  T.E.= 3.234E+06
+              Mx= 0.162E+05   My= 0.261E-02   Mz=-0.812E+02
+ Step=   176  T= 6.001E-03  K.E.= 3.206E+06  T.E.= 3.232E+06
+              Mx= 0.162E+05   My= 0.764E-01   Mz=-0.134E+03
+ Step=   235  T= 8.013E-03  K.E.= 3.187E+06  T.E.= 3.230E+06
+              Mx= 0.162E+05   My= 0.479E+01   Mz=-0.188E+03
+ Step=   294  T= 1.003E-02  K.E.= 3.168E+06  T.E.= 3.229E+06
+              Mx= 0.162E+05   My= 0.282E+02   Mz=-0.243E+03
+ Step=   352  T= 1.200E-02  K.E.= 3.146E+06  T.E.= 3.228E+06
+              Mx= 0.162E+05   My= 0.612E+02   Mz=-0.302E+03
+ Step=   411  T= 1.401E-02  K.E.= 3.121E+06  T.E.= 3.226E+06
+              Mx= 0.162E+05   My= 0.100E+03   Mz=-0.368E+03
+ Step=   470  T= 1.603E-02  K.E.= 3.094E+06  T.E.= 3.226E+06
+              Mx= 0.162E+05   My= 0.142E+03   Mz=-0.424E+03
+ Step=   528  T= 1.800E-02  K.E.= 3.066E+06  T.E.= 3.224E+06
+              Mx= 0.162E+05   My= 0.184E+03   Mz=-0.455E+03
+ Write output data
+number of failed particles =         11
+ Step=   587  T= 2.002E-02  K.E.= 3.037E+06  T.E.= 3.222E+06
+              Mx= 0.162E+05   My= 0.235E+03   Mz=-0.481E+03

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1" byte_order="BigEndian" compressor="vtkZLibDataCompressor">
+    <Collection>
+    <DataSet timestep="  0.0000E+00" group="" part="0" file="Taylor_anim_1.vtu"/>
+    <DataSet timestep="  0.8088E-02" group="" part="0" file="Taylor_anim_2.vtu"/>
+    <DataSet timestep="  0.1604E-01" group="" part="0" file="Taylor_anim_3.vtu"/>
+    <DataSet timestep="  0.2413E-01" group="" part="0" file="Taylor_anim_4.vtu"/>
+    <DataSet timestep="  0.3209E-01" group="" part="0" file="Taylor_anim_5.vtu"/>
+    <DataSet timestep="  0.4004E-01" group="" part="0" file="Taylor_anim_6.vtu"/>
+    <DataSet timestep="  0.4813E-01" group="" part="0" file="Taylor_anim_7.vtu"/>
+    <DataSet timestep="  0.5609E-01" group="" part="0" file="Taylor_anim_8.vtu"/>
+    <DataSet timestep="  0.6404E-01" group="" part="0" file="Taylor_anim_9.vtu"/>
+    <DataSet timestep="  0.7213E-01" group="" part="0" file="Taylor_anim_10.vtu"/>
+    <DataSet timestep="  0.8008E-01" group="" part="0" file="Taylor_anim_11.vtu"/>
+    </Collection>
+</VTKFile>
