@@ -195,7 +195,7 @@ DT =  0.133E-03
  Step=   604  T= 8.008E-02  K.E.= 1.776E+03  T.E.= 1.882E+05
               Mx= 0.226E-01   My=-0.150E-03   Mz=-0.386E+02
  
-** Total CPU Time is      58.4375 seconds (    0 minutes 58.4375 seconds)
-** Elapsed time is        77.9375 seconds (    1 minutes 17.9375 seconds)
-** Time per particle cycle:    4569.7539 nanoseconds
-** Total elasped time :      82.0938 seconds
+** Total CPU Time is      54.4531 seconds (    0 minutes 54.4531 seconds)
+** Elapsed time is        72.6719 seconds (    1 minutes 12.6719 seconds)
+** Time per particle cycle:    4258.1797 nanoseconds
+** Total elasped time :      74.2344 seconds

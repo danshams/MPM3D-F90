@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1" byte_order="BigEndian" compressor="vtkZLibDataCompressor">
+    <Collection>
+    <DataSet timestep="  0.0000E+00" group="" part="0" file="Deto1k_anim_1.vtu"/>
+    <DataSet timestep="  0.1001E-02" group="" part="0" file="Deto1k_anim_2.vtu"/>
+    <DataSet timestep="  0.2001E-02" group="" part="0" file="Deto1k_anim_3.vtu"/>
+    <DataSet timestep="  0.3000E-02" group="" part="0" file="Deto1k_anim_4.vtu"/>
+    <DataSet timestep="  0.4001E-02" group="" part="0" file="Deto1k_anim_5.vtu"/>
+    <DataSet timestep="  0.5001E-02" group="" part="0" file="Deto1k_anim_6.vtu"/>
+    <DataSet timestep="  0.6001E-02" group="" part="0" file="Deto1k_anim_7.vtu"/>
+    <DataSet timestep="  0.7001E-02" group="" part="0" file="Deto1k_anim_8.vtu"/>
+    <DataSet timestep="  0.8001E-02" group="" part="0" file="Deto1k_anim_9.vtu"/>
+    <DataSet timestep="  0.9001E-02" group="" part="0" file="Deto1k_anim_10.vtu"/>
+    <DataSet timestep="  0.1000E-01" group="" part="0" file="Deto1k_anim_11.vtu"/>
+    <DataSet timestep="  0.1100E-01" group="" part="0" file="Deto1k_anim_12.vtu"/>
+    <DataSet timestep="  0.1200E-01" group="" part="0" file="Deto1k_anim_13.vtu"/>
+    <DataSet timestep="  0.1300E-01" group="" part="0" file="Deto1k_anim_14.vtu"/>
+    <DataSet timestep="  0.1400E-01" group="" part="0" file="Deto1k_anim_15.vtu"/>
+    </Collection>
+</VTKFile>
